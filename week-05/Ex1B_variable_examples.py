@@ -3,7 +3,7 @@
 
 customer_id = 101 # I used a number because IDs are often numeric.
 customer_name = "Bumi Santarin" # I used first and last name together, but it could also be separated into first_name and last_name.
-customer_gender = "Female" # I used text, but the company may use codes like F, M, X, or prefer not to answer.
+customer_gender = "Male" # I used text, but the company may use codes like F, M, X, or prefer not to answer.
 customer_date_of_birth = "2023-05-01" # I used a string because dates can be stored in different formats.
 drivers_license_number = "B1234567" # I used a string because license numbers can contain both letters and numbers.
 auto_policy_number = "APN-123456" # I used a string because policy numbers may contain letters, numbers, and symbols.
