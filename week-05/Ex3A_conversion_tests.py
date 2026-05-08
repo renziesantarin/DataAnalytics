@@ -6,22 +6,33 @@ b = '55'
 c = "402 Stevens"
 d = 'Number 5 '
 
-# a_int = int(a) produces ValueError because int() cannot directly convert a decimal string
+# a_int = int(a) produces ValueError because int() can only convert whole numbers
+# Converting to a float
 a_float = float(a)
+# Converting to int by converting to float first
 a_int = int(float(a))
-a_strip = a.strip() # to remove spaces
+# Using .strip() to remove spaces
+a_strip = a.strip()
 
+# Converting b to integer
 b_int = int(b)
+# Converting b to float
 b_float = float(b)
 
-# c_float = float(c) Again, ValueError
+# c_float = float(c) Again, ValueError because it contains letters
+# Taking only the number part
 c_slice = c[:3]
+# Converting the sliced value into integer
 c_number = int(c_slice)
 
+# Using .strip() to remove spaces
 d_strip = d.strip()
-d_slice = d[-2]
+# Taking only the number part
+d_slice = d[-2] #
+# Converting the sliced value into integer
 d_number = int(d_slice)
 
+# Print results and data types
 print(a, type(a))
 print(a_float, type(a_float))
 print(a_int, type(a_int))
