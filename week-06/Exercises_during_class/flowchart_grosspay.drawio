@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="CaevD7u9y86Fw9zocnVR">
+    <mxGraphModel dx="774" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="INm0JWTqm_M9eRxSqb1F-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="70" width="150" x="275" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="INm0JWTqm_M9eRxSqb1F-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input hours&amp;nbsp;&lt;div&gt;worked&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="INm0JWTqm_M9eRxSqb1F-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="349.5" y="90" as="sourcePoint" />
+            <mxPoint x="350" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INm0JWTqm_M9eRxSqb1F-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input hourly pay&lt;br&gt;&lt;div&gt;rate&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="280" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="INm0JWTqm_M9eRxSqb1F-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="349.5" y="190" as="sourcePoint" />
+            <mxPoint x="350" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INm0JWTqm_M9eRxSqb1F-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontStyle=1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="349.5" y="290" as="sourcePoint" />
+            <mxPoint x="350" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INm0JWTqm_M9eRxSqb1F-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Display result" vertex="1">
+          <mxGeometry height="50" width="150" x="270" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="INm0JWTqm_M9eRxSqb1F-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calculate gross pay as hours&lt;div&gt;worked multiplied by pay rate&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="265" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="INm0JWTqm_M9eRxSqb1F-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="349.5" y="390" as="sourcePoint" />
+            <mxPoint x="350" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INm0JWTqm_M9eRxSqb1F-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="349.5" y="480" as="sourcePoint" />
+            <mxPoint x="350" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="INm0JWTqm_M9eRxSqb1F-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="End" vertex="1">
+          <mxGeometry height="70" width="150" x="275" y="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

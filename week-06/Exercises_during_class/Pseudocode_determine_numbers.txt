@@ -1,0 +1,15 @@
+START
+
+Input a number
+
+IF number is > 0 THEN
+
+Display "Positive Number"
+
+ELSE IF number is < 0 THEN
+    
+Display "Negative Number"
+
+Otherwise display "Invalid"
+
+END

@@ -1,0 +1,25 @@
+START
+
+Boil water
+
+Get a cup
+
+Place tea bag in cup
+
+Pour hot water into cup
+
+Wait 3 to 5 minutes for tea to steep
+
+Remove tea bag
+
+Ask if sugar is wanted
+IF yes -- Add sugar
+
+Ask if milk is wanted
+IF yes -- Add milk
+
+Stir tea
+
+Serve tea
+
+END
