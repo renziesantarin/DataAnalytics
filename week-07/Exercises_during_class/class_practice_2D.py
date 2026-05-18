@@ -9,9 +9,9 @@ arrA = np.array([
 print(arrA)
 # This will print the whole 2D array
 
-# This loop will go through each row and print them
+# This loop will go through each row, then multiplying by 2 and print them
 for row in arrA:
-    print(row)
+    print(row * 2)
 
     # This second loop will grab each row and print it and then get each element
     # and the result variable will calculate it multiplying by 2 and hold the result
